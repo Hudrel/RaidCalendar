@@ -1,0 +1,27 @@
+## Interface: 11200
+## Title: RaidCalendar
+## Author: Sica
+## Version: 0.9.11
+## Notes: Shows raids from raid-helper.dev
+## SavedVariablesPerCharacter: RaidCalendarDB
+
+libs\LibStub\LibStub.lua
+libs\Libs.xml
+
+Localization.lua
+locale\enUS.lua
+locale\frFR.lua
+Utils.lua
+LootTable.lua
+GuiElements.lua
+FrameBuilder.lua
+ThemeSelector.lua
+WelcomePopup.lua
+CalendarPopup_Original.lua
+CalendarPopup_Pfui.lua
+CalendarPopup_Blizzard.lua
+EventPopup.lua
+SRPopup.lua
+MessageHandler.lua
+MinimapIcon.lua
+RaidCalendar.lua
